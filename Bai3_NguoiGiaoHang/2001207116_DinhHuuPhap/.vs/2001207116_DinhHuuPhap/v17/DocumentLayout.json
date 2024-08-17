@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2001207116_DinhHuuPhap_Phan3\\Bai3_NguoiGiaoHang\\2001207116_DinhHuuPhap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9770C8-4348-4AA8-9740-1FC0DC0E20AA}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|D:\\2001207116_DinhHuuPhap_Phan3\\Bai3_NguoiGiaoHang\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F9770C8-4348-4AA8-9740-1FC0DC0E20AA}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|solutionrelative:2001207116_DinhHuuPhap\\Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9770C8-4348-4AA8-9740-1FC0DC0E20AA}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|D:\\2001207116_DinhHuuPhap_Phan3\\Bai3_NguoiGiaoHang\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\input_bai3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2F9770C8-4348-4AA8-9740-1FC0DC0E20AA}|2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap.vcxproj|solutionrelative:2001207116_DinhHuuPhap\\input_bai3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input_bai3.txt",
+              "DocumentMoniker": "D:\\2001207116_DinhHuuPhap_Phan3\\Bai3_NguoiGiaoHang\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\input_bai3.txt",
+              "RelativeDocumentMoniker": "2001207116_DinhHuuPhap\\input_bai3.txt",
+              "ToolTip": "D:\\2001207116_DinhHuuPhap_Phan3\\Bai3_NguoiGiaoHang\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\input_bai3.txt",
+              "RelativeToolTip": "2001207116_DinhHuuPhap\\input_bai3.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-17T16:19:29.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai3.cpp",
+              "DocumentMoniker": "D:\\2001207116_DinhHuuPhap_Phan3\\Bai3_NguoiGiaoHang\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\Bai3.cpp",
+              "RelativeDocumentMoniker": "2001207116_DinhHuuPhap\\Bai3.cpp",
+              "ToolTip": "D:\\2001207116_DinhHuuPhap_Phan3\\Bai3_NguoiGiaoHang\\2001207116_DinhHuuPhap\\2001207116_DinhHuuPhap\\Bai3.cpp",
+              "RelativeToolTip": "2001207116_DinhHuuPhap\\Bai3.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAgwGMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-17T16:19:20.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

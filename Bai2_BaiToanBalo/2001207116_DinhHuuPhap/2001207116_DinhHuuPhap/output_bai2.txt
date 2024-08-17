@@ -1,0 +1,4 @@
+Cac do vat chon de dua vao balo:
+Do vat: A Trong luong: 3, So luong : 1
+Do vat: D Trong luong: 2, So luong : 3
+Trong luong toi da dua vao balo : 9Gia tri toi da dua vao balo : 13

@@ -1,0 +1,8 @@
+To hop chap 5 cua 3 la: -1
+To hop chap 1 cua 2 la: 2
+To hop chap 2 cua 14 la: 91
+To hop chap 4 cua 6 la: 15
+To hop chap 0 cua 0 la: 1
+To hop chap 1 cua 1 la: 1
+To hop chap 0 cua 1 la: 1
+To hop chap 1 cua 0 la: -1
